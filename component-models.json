@@ -187,21 +187,21 @@
     ]
   },
   {
-    "id" : "quote", 
-    "fields" : [
+    "id": "quote",
+    "fields": [
       {
-        "component" : "text-area", 
-        "name" : "quote", 
-        "value" : "This is the default value", 
-        "label" : "Quote", 
-        "valueType" : "String"
-      }, 
+        "component": "text-area",
+        "name": "quote",
+        "value": "",
+        "label": "Quote",
+        "valueType": "string"
+      },
       {
-        "component" : "text-input", 
-        "name" : "author", 
-        "value" : "Default author name", 
-        "label" : "Author", 
-        "valueType" : "String"
+        "component": "text-input",
+        "valueType": "string",
+        "name": "author",
+        "label": "Author",
+        "value": ""
       }
     ]
   }
