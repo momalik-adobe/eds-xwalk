@@ -192,14 +192,14 @@
       {
         "component" : "text-area", 
         "name" : "quote", 
-        "value" : "", 
+        "value" : "This is the default value", 
         "label" : "Quote", 
         "valueType" : "String"
       }, 
       {
         "component" : "text-input", 
         "name" : "author", 
-        "value" : "", 
+        "value" : "Default author name", 
         "label" : "Author", 
         "valueType" : "String"
       }
