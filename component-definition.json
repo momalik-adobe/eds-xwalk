@@ -138,7 +138,7 @@
         },
         {
           "title" : "Quote", 
-          "id" : "quout", 
+          "id" : "quote", 
           "plugins": {
             "xwalk":{
               "page": {
@@ -146,7 +146,7 @@
                 "template": {
                   "name" : "Quote", 
                   "mode" : "quote", 
-                  "quote": "THisn mcFly", 
+                  "quote": "this is  mcFly", 
                   "author" : "Biff Tannen"
                 }
               }
