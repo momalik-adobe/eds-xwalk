@@ -1,1 +1,1 @@
-alert("Quote injected")
+console.log("Quote injected");
